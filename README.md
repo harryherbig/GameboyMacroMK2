@@ -3,7 +3,7 @@
 
 <img src="img/variant_gameboy_logo/final-product.jpeg" style="max-width:60%;"></img>
 
-This design is based on the upstream of this repository, please see the upstream of this fork:
+This design is based on the upstream of this repository, please see also see the original readme:
 https://github.com/gb9k/GameboyMacro
 
 ## Photos of printed parts
