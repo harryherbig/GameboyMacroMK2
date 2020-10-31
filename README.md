@@ -1,5 +1,5 @@
 # GameboyMacro MK2
-3d printing stl files and Fusion 360 step file for a Gameboy Macro body / faceplate.
+3d printing stl files and Fusion 360 f3d file for a Gameboy Macro body / faceplate.
 
 <img src="img/variant_gameboy_logo/final-product.jpeg" style="max-width:60%;"></img>
 
