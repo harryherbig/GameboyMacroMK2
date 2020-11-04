@@ -1,9 +1,11 @@
-# GameboyMacro MK2
+# Game Boy Macro - MK2
+My MK2 version of a Gameboy Macro body / faceplate. 
+
 This repo contains:
 - STL files for 3D printing
 - Fusion 360 f3d file
-
-for my MK2 version of a Gameboy Macro body / faceplate. 
+- printing instructions
+- my goals and assembly instructions for additional information
 
 <img src="img/variant_gameboy_logo/final-product.jpeg" style="max-width:60%;"></img>
 
