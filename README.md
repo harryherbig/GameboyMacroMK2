@@ -12,6 +12,8 @@ This repo contains:
 This design is based on the upstream of this repository, please also see the original readme:
 https://github.com/gb9k/GameboyMacro
 
+Find this design on [https://www.thingiverse.com/thing:4643548](https://www.thingiverse.com/thing:4643548)
+
 ## Github Stars
 I do projects like this as a hobby in my free time for my own purpose - I have no commercial intentions.
 I like the thought of open source, so I decided to not only share the STL files but also the source files for Fusion 360 for you to be able to adapt this to your own needs. 
