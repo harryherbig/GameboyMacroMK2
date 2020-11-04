@@ -56,4 +56,8 @@ The body is split in two parts because it would be hard to impossible to get a c
 - get your retraction settings right to avoid stringing and manual cleanup afterswards
 
 ### Assembly
-- glue parts together with superglue, or what you works best for the material you use
+- Glue parts together with superglue, or what works best for the material you use
+- Get the display cover from the top screen and attach it by putting it in the recessed frame. 
+  - It just sticks to the original top housing with rubbery adhesive stripes and can be pushed out carefully. 
+  - If done properly you can save and reuse the adhesive stripes or just replace it with double sided tape.
+  - You can also order replacement lens covers online in different colors. 
